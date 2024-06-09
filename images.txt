@@ -1,4 +1,4 @@
-alpine
+高山
 kasmweb/nginx:1.25.3
-python:alpine3.19
-v2ray-linux-arm32-v7a
+蟒蛇：alpine3.19
+v2ray
