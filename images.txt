@@ -1,1 +1,1 @@
-ghcr.io/xtls/xray-core:latest
+v2raya
