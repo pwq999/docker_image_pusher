@@ -1,4 +1,1 @@
-高山
-kasmweb/nginx:1.25.3
-蟒蛇：alpine3.19
 v2ray
